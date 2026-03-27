@@ -1,5 +1,9 @@
 # 📦 Atividade Avaliativa - QTS (Testes com Pytest)
 
+Feito por: ``` Samuel da Silva Ramos - chiefzz7 ```
+
+---
+
 ## 📌 Descrição
 
 Este projeto foi desenvolvido como uma atividade avaliativa da disciplina de **Qualidade e Testes de Software (QTS)**.
